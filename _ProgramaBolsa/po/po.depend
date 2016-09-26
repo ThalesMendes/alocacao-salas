@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\fernanda\_programabolsa\po\main.cpp
+	<iostream>
+
+1471792491 source:c:\users\fernanda\_programabolsa\po\src\horario.cpp
+	<sstream>
+	"Horario.h"
+
+1471794543 c:\users\fernanda\_programabolsa\po\include\horario.h
+	<string>
+
+1471795808 source:c:\users\fernanda\_programabolsa\po\src\turma.cpp
+	"Turma.h"
+
+1471794803 c:\users\fernanda\_programabolsa\po\include\turma.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	"Horario.h"
+	"TipoSala.h"
+	"GrupoTurma.h"
+
+1471565832 source:c:\users\fernanda\_programabolsa\po\src\gruposala.cpp
+	"GrupoSala.h"
+
+1471794244 c:\users\fernanda\_programabolsa\po\include\gruposala.h
+	<vector>
+
+1471562903 source:c:\users\fernanda\_programabolsa\po\src\parametros.cpp
+	"Parametros.h"
+
+1471794426 c:\users\fernanda\_programabolsa\po\include\parametros.h
+	<string>
+
+1471574705 source:c:\users\fernanda\_programabolsa\po\src\sala.cpp
+	"Sala.h"
+
+1471794500 c:\users\fernanda\_programabolsa\po\include\sala.h
+	"Horario.h"
+	"TipoSala.h"
+	<vector>
+	<string>
+
+1471802233 source:c:\users\fernanda\_programabolsa\po\src\grupoturma.cpp
+	"GrupoTurma.h"
+
+1471805225 c:\users\fernanda\_programabolsa\po\include\tiposala.h
+	<vector>
+	<map>
+
+1471565954 source:c:\users\fernanda\_programabolsa\po\src\tiposala.cpp
+	"TipoSala.h"
+
+1471795412 c:\users\fernanda\_programabolsa\po\include\grupoturma.h
+	<vector>
+	<string>
+
+1474000053 source:c:\users\thales castro\desktop\_programabolsa43\po\main.cpp
+	<iostream>
+	<fstream>
+
+1471565832 source:c:\users\thales castro\desktop\_programabolsa43\po\src\gruposala.cpp
+	"GrupoSala.h"
+
+1471794244 c:\users\thales castro\desktop\_programabolsa43\po\include\gruposala.h
+	<vector>
+
+1471802233 source:c:\users\thales castro\desktop\_programabolsa43\po\src\grupoturma.cpp
+	"GrupoTurma.h"
+
+1471795412 c:\users\thales castro\desktop\_programabolsa43\po\include\grupoturma.h
+	<vector>
+	<string>
+
+1471792491 source:c:\users\thales castro\desktop\_programabolsa43\po\src\horario.cpp
+	<sstream>
+	"Horario.h"
+
+1471794543 c:\users\thales castro\desktop\_programabolsa43\po\include\horario.h
+	<string>
+
+1471562903 source:c:\users\thales castro\desktop\_programabolsa43\po\src\parametros.cpp
+	"Parametros.h"
+
+1471794426 c:\users\thales castro\desktop\_programabolsa43\po\include\parametros.h
+	<string>
+
+1471574705 source:c:\users\thales castro\desktop\_programabolsa43\po\src\sala.cpp
+	"Sala.h"
+
+1471794500 c:\users\thales castro\desktop\_programabolsa43\po\include\sala.h
+	"Horario.h"
+	"TipoSala.h"
+	<vector>
+	<string>
+
+1471805225 c:\users\thales castro\desktop\_programabolsa43\po\include\tiposala.h
+	<vector>
+	<map>
+
+1471806817 source:c:\users\thales castro\desktop\_programabolsa43\po\src\tiposala.cpp
+	"TipoSala.h"
+
+1471795808 source:c:\users\thales castro\desktop\_programabolsa43\po\src\turma.cpp
+	"Turma.h"
+
+1471794803 c:\users\thales castro\desktop\_programabolsa43\po\include\turma.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	"Horario.h"
+	"TipoSala.h"
+	"GrupoTurma.h"
+
